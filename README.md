@@ -2,4 +2,4 @@
 # T1-open-schools
 https://t1.ru/open-school/
 ## Topics
-Here you can find my tasks completed during the course.
+Здесь можно найти список тем и домашние задания, выполненные по каждой теме.
