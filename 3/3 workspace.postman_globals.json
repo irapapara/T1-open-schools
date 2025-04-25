@@ -1,0 +1,84 @@
+{
+	"id": "492cafde-f9f8-4266-8e49-fb534c3b0bf5",
+	"values": [
+		{
+			"key": "baseUrl",
+			"value": "https://petstore.swagger.io/v2",
+			"type": "default"
+		},
+		{
+			"key": "petId",
+			"value": "1",
+			"type": "default"
+		},
+		{
+			"key": "filePath",
+			"value": "\"C:\\Users\\irapa\\OneDrive\\Desktop\\Без названия (1).jpg\"",
+			"type": "default"
+		},
+		{
+			"key": "petIdInvalid",
+			"value": "",
+			"type": "default"
+		},
+		{
+			"key": "petIdnotfound",
+			"value": "0",
+			"type": "default"
+		},
+		{
+			"key": "orderId",
+			"value": "2",
+			"type": "default"
+		},
+		{
+			"key": "username",
+			"value": "user1",
+			"type": "default"
+		},
+		{
+			"key": "usernameInvalid",
+			"value": "user",
+			"type": "default"
+		},
+		{
+			"key": "usernamenotfound",
+			"value": "userpuser",
+			"type": "default"
+		},
+		{
+			"key": "tag1",
+			"value": "-1",
+			"type": "default"
+		},
+		{
+			"key": "taginvalid",
+			"value": "",
+			"type": "default"
+		},
+		{
+			"key": "orderIdInvalid",
+			"value": "0",
+			"type": "default"
+		},
+		{
+			"key": "orderIdNotFound",
+			"value": "0",
+			"type": "default"
+		},
+		{
+			"key": "orderIdDel",
+			"value": "",
+			"type": "default"
+		},
+		{
+			"key": "petIdFromPostNewPet",
+			"value": "9223372036854775807",
+			"type": "default"
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2025-03-31T00:42:51.158Z",
+	"_postman_exported_using": "Postman/11.32.4"
+}
